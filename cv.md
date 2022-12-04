@@ -1,6 +1,6 @@
 # Nick Eremeevsky
 
-<img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/femily.jpg" alt="Me and my dear wife Emily" width="200">
+<img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/femily.jpg" alt="Me and my dear wife Emily" width="200">
 
 ## :wave: About me
 
@@ -61,10 +61,11 @@ At my spare time I read books and play piano :musical_keyboard:.
 
 ## :envelope: Contact me
 
-<a href="mailto:nick.eremeevsky@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/icons/gmail.svg" alt="Email" width="35" title="Email"/></a>
-<a href="https://nickeremeevsky.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/icons/internet.svg" alt="My website" width="35" title="My website"/></a>
-<a href="https://github.com/nickeremeevsky/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/icons/github.svg" alt="GitHub" width="35" title="GitHub"/></a>
-<a href="https://t.me/nickeremeevsky/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/icons/telegram.svg" alt="Telegram" width="35" title="Telegram"/></a>
-<a href="https://discordapp.com/users/1045332845293473793/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/icons/discord.svg" alt="Discord" width="35" title="Discord"/></a>
+<a href="mailto:nick.eremeevsky@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/gmail.svg" alt="Email" width="35" title="Email"/></a>
+<a href="https://nickeremeevsky.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/internet.svg" alt="My website" width="35" title="My website"/></a>
+<a href="https://github.com/nickeremeevsky/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/github.svg" alt="GitHub" width="35" title="GitHub"/></a>
+<a href="https://t.me/nickeremeevsky/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/telegram.svg" alt="Telegram" width="35" title="Telegram"/></a>
+<a href="https://discordapp.com/users/1045332845293473793/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/discord.svg" alt="Discord" width="35" title="Discord"/></a>
 
-<a href="https://rs.school/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/main/images/rs-school.svg" alt="RS SCHOOL" width="120" title="RS SCHOOL"/></a>
+
+<a href="https://rs.school/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/rs-school.svg" alt="RS SCHOOL" width="120" title="RS SCHOOL"/></a>
