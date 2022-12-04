@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/femily.jpg" alt="Me and my dear wife Emily" width="200">
 
-## :wave: About me
+## 👋 About me  
 
 Hello! My name's Nick Eremeevsky, but you can call me Niko. I'm 25 years old. I live in Yoshkar-Ola.
 
@@ -12,7 +12,7 @@ I take a great interest in frontend development, particularly React Native. I se
 
 At my spare time I read books and play piano :musical_keyboard:.
 
-## :man_technologist: My skills and tools
+## 👨‍💻 My skills and tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@ At my spare time I read books and play piano :musical_keyboard:.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## :pushpin: My code example
+## 📌 My code example
 
 ```json
 {
@@ -35,13 +35,13 @@ At my spare time I read books and play piano :musical_keyboard:.
 }
 ```
 
-## :student: My educations
+## 👨‍🎓 My educations
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-## :mortar_board: My training projects
+## 🎓 My training projects 
 
 |                             Project                              |                          Description                           |                       Use tools                        |                         Source code                          |
 | :--------------------------------------------------------------: | :------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
@@ -50,7 +50,7 @@ At my spare time I read books and play piano :musical_keyboard:.
 |         [Dream House](https://aframe-house.netlify.app/)         |    Our goal is to create a better place for people to live     | HTML, CSS, JavaScript, ScrollReveal, Dark/Light theme  |   [GitHub](https://github.com/nickeremeevsky/dream-house/)   |
 |        [fEmily Dress](https://femily-dress.netlify.app/)         |                  Your dress is touching, Dear                  |    React.js, GSAP, styled-components, framer-motion    |   [GitHub](https://github.com/nickeremeevsky/fEmilyDress/)   |
 
-## :us: My English
+## 🇺🇸 My English 
 
 - [x] A1
 - [x] A2
@@ -59,7 +59,7 @@ At my spare time I read books and play piano :musical_keyboard:.
 - [ ] C1
 - [ ] C2
 
-## :envelope: Contact me
+## ✉️ Contact me 
 
 <a href="mailto:nick.eremeevsky@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/gmail.svg" alt="Email" width="35" title="Email"/></a>
 <a href="https://nickeremeevsky.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/nickeremeevsky/rsschool-cv/gh-pages/images/icons/internet.svg" alt="My website" width="35" title="My website"/></a>
