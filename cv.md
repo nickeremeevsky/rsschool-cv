@@ -57,7 +57,7 @@ At my spare time I read books and play piano 🎹.
 - [ ] B1
 - [ ] B2
 - [ ] C1
-- [ ] C2
+- [ ] C2 
 
 ## ✉️ Contact me 
 
