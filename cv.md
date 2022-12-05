@@ -41,6 +41,18 @@ At my spare time I read books and play piano 🎹.
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
+## 🇺🇸 My English
+
+- [X] Level A
+    - [X] beginner (A1)
+    - [X] elementary (A2)
+- [ ] Level B
+    - [ ] intermediate (B1)
+    - [ ] upper intermediate B2)
+- [ ] Level C
+    - [ ] advanced (C1)
+    - [ ] proficiency (C2)
+
 ## 🎓 My training projects
 
 |                             Project                              |                          Description                           |                       Use tools                        |                         Source code                          |
@@ -49,15 +61,6 @@ At my spare time I read books and play piano 🎹.
 | [Greg Plitt Presentation](https://thanks-gregplitt.netlify.app/) |                  Every dream the possibility                   |         HTML, CSS, JavaScript, CSS-animations          | [GitHub](https://github.com/nickeremeevsky/thanksGregPlitt/) |
 |         [Dream House](https://aframe-house.netlify.app/)         |    Our goal is to create a better place for people to live     | HTML, CSS, JavaScript, ScrollReveal, Dark/Light theme  |   [GitHub](https://github.com/nickeremeevsky/dream-house/)   |
 |        [fEmily Dress](https://femily-dress.netlify.app/)         |                  Your dress is touching, Dear                  |    React.js, GSAP, styled-components, framer-motion    |   [GitHub](https://github.com/nickeremeevsky/fEmilyDress/)   |
-
-## 🇺🇸 My English
-
-- [x] beginner
-- [x] elementary
-- [ ] intermediate
-- [ ] upper intermediate
-- [ ] advanced
-- [ ] proficiency
 
 ## ✉️ Contact me
 
