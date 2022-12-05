@@ -41,15 +41,6 @@ At my spare time I read books and play piano 🎹.
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
-## 🇺🇸 My English
-
-✔️ Elementary (A2)
-
-> 💡 **Сonclusion:** I should improve my English.
-
-
-
-
 ## 🎓 My training projects
 
 |                             Project                              |                          Description                           |                       Use tools                        |                         Source code                          |
@@ -58,6 +49,12 @@ At my spare time I read books and play piano 🎹.
 | [Greg Plitt Presentation](https://thanks-gregplitt.netlify.app/) |                  Every dream the possibility                   |         HTML, CSS, JavaScript, CSS-animations          | [GitHub](https://github.com/nickeremeevsky/thanksGregPlitt/) |
 |         [Dream House](https://aframe-house.netlify.app/)         |    Our goal is to create a better place for people to live     | HTML, CSS, JavaScript, ScrollReveal, Dark/Light theme  |   [GitHub](https://github.com/nickeremeevsky/dream-house/)   |
 |        [fEmily Dress](https://femily-dress.netlify.app/)         |                  Your dress is touching, Dear                  |    React.js, GSAP, styled-components, framer-motion    |   [GitHub](https://github.com/nickeremeevsky/fEmilyDress/)   |
+
+## 🇺🇸 My English
+
+✔️ Elementary (A2)
+
+> 💡 **Сonclusion:** I should improve my English.
 
 ## ✉️ Contact me
 
