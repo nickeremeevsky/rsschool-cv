@@ -43,17 +43,12 @@ At my spare time I read books and play piano 🎹.
 
 ## 🇺🇸 My English
 
-I should improve my English.
- 
-- [X] Level A
-    - [X] beginner (A1)
-    - [X] elementary (A2)
-- [ ] Level B
-    - [ ] intermediate (B1)
-    - [ ] upper intermediate B2)
-- [ ] Level C
-    - [ ] advanced (C1)
-    - [ ] proficiency (C2)
+✔️ Elementary (A2)
+
+> 💡 **Сonclusion:** I should improve my English.
+
+
+
 
 ## 🎓 My training projects
 
