@@ -52,12 +52,12 @@ At my spare time I read books and play piano 🎹.
 
 ## 🇺🇸 My English
 
-- [x] A1
-- [x] A2
-- [ ] B1
-- [ ] B2
-- [ ] C1
-- [ ] C2 
+- [x] beginner
+- [x] elementary
+- [ ] intermediate
+- [ ] upper intermediate
+- [ ] advanced
+- [ ] proficiency
 
 ## ✉️ Contact me
 
