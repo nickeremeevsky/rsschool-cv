@@ -10,7 +10,7 @@ I attended HTML/CSS courses conducted by [Evgeny Andrikanich](https://www.youtub
 
 I take a great interest in frontend development, particularly React Native. I set a goal to create an application that will be similar to [YouVersion](https://www.bible.com/ru/). That's why I took [RS School](https://rs.school/). This school is a way for me, which can take me to my destination.
 
-At my spare time I read books and play piano 🎹. 
+At my spare time I read books and play piano 🎹.
 
 ## 👨‍💻 My skills and tools
 
