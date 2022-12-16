@@ -35,7 +35,7 @@ At my spare time I read books and play piano 🎹.
 }
 ```
 
-## 👨‍🎓 My educations
+## 👨‍🎓 My education
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
