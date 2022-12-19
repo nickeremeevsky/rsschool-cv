@@ -203,14 +203,14 @@ pre {
 	padding: 0 15px;
 }
 
-.footer__col h4 {
+.footer__col h3 {
 	font-size: 20px;
 	color: #ffffff;
 	margin-bottom: 35px;
 	font-weight: 500;
 	position: relative;
 }
-.footer__col h4::before {
+.footer__col h3::before {
 	content: '';
 	position: absolute;
 	left: 0;
